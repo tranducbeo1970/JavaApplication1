@@ -1,0 +1,298 @@
+2020-03-03 15:24:33,548 ERROR  [JFrame_Main]  
+2020-03-03 15:24:33,550 ERROR  [JFrame_Main]  
+2020-03-03 15:24:33,549 ERROR  [JFrame_Main]  
+2020-03-03 15:24:33,551 ERROR  [JFrame_Main]  
+2020-03-03 15:24:33,550 ERROR  [JFrame_Main]  
+2020-03-03 15:24:33,555 ERROR  [JFrame_Main]  
+2020-03-03 15:24:33,555 ERROR  [JFrame_Main]  
+2020-03-03 15:24:33,557 ERROR  [JFrame_Main]  
+2020-03-03 15:24:33,939 ERROR  [UdpSocket_ADSB_Rx_Thread] Address already in use (Bind failed) 
+2020-03-03 15:24:34,124 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:34,233 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:35,312 ERROR  [JFrame_Main] 0 >= 0 
+2020-03-03 15:24:35,325 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:35,357 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:36,292 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:36,307 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:37,298 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:37,303 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:38,301 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:38,314 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:39,302 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:39,315 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:40,302 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:40,307 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:41,300 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:41,303 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:42,298 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:42,305 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:43,295 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:43,300 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:44,297 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:44,299 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:45,300 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:45,303 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:46,300 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:46,305 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:47,301 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:47,306 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:48,301 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:48,309 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:49,301 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:49,316 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:50,300 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:50,303 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:51,308 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:51,311 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:52,303 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:52,309 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:53,304 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:53,309 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:54,307 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:54,310 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:55,304 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:55,309 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:24:56,304 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:24:56,306 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:06,182 ERROR  [JFrame_Main]  
+2020-03-03 15:26:06,183 ERROR  [JFrame_Main]  
+2020-03-03 15:26:06,183 ERROR  [JFrame_Main]  
+2020-03-03 15:26:06,184 ERROR  [JFrame_Main]  
+2020-03-03 15:26:06,185 ERROR  [JFrame_Main]  
+2020-03-03 15:26:06,187 ERROR  [JFrame_Main]  
+2020-03-03 15:26:06,187 ERROR  [JFrame_Main]  
+2020-03-03 15:26:06,187 ERROR  [JFrame_Main]  
+2020-03-03 15:26:06,530 ERROR  [UdpSocket_ADSB_Rx_Thread] Address already in use (Bind failed) 
+2020-03-03 15:26:06,759 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:06,895 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:07,911 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:07,952 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:08,906 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:08,911 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:09,903 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:09,907 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:10,901 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:10,906 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:11,908 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:11,914 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:12,910 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:12,914 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:13,907 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:13,910 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:14,898 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:14,905 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:15,910 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:15,913 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:16,911 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:16,918 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:17,906 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:17,910 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:18,905 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:18,909 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:19,909 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:19,912 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:20,905 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:20,909 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:21,905 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:21,908 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:22,905 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:22,915 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:23,905 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:23,910 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:24,904 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:24,907 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:25,904 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:25,909 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:26:26,905 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:26:26,915 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:27:40,763 ERROR  [JFrame_Main]  
+2020-03-03 15:27:40,764 ERROR  [JFrame_Main]  
+2020-03-03 15:27:40,765 ERROR  [JFrame_Main]  
+2020-03-03 15:27:40,766 ERROR  [JFrame_Main]  
+2020-03-03 15:27:40,766 ERROR  [JFrame_Main]  
+2020-03-03 15:27:40,767 ERROR  [JFrame_Main]  
+2020-03-03 15:27:40,768 ERROR  [JFrame_Main]  
+2020-03-03 15:27:40,770 ERROR  [JFrame_Main]  
+2020-03-03 15:27:41,045 ERROR  [UdpSocket_ADSB_Rx_Thread] Address already in use (Bind failed) 
+2020-03-03 15:27:41,355 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:27:41,425 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:27:42,551 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:27:42,567 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:27:43,551 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:27:43,559 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:27:44,560 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:27:44,570 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:27:45,568 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:27:45,572 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:27:46,557 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:27:46,562 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:27:47,598 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:27:47,602 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:27:48,592 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:27:48,596 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:27:49,584 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:27:49,588 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:36,803 ERROR  [JFrame_Main]  
+2020-03-03 15:29:36,804 ERROR  [JFrame_Main]  
+2020-03-03 15:29:36,805 ERROR  [JFrame_Main]  
+2020-03-03 15:29:36,805 ERROR  [JFrame_Main]  
+2020-03-03 15:29:36,806 ERROR  [JFrame_Main]  
+2020-03-03 15:29:36,806 ERROR  [JFrame_Main]  
+2020-03-03 15:29:36,807 ERROR  [JFrame_Main]  
+2020-03-03 15:29:36,811 ERROR  [JFrame_Main]  
+2020-03-03 15:29:37,090 ERROR  [UdpSocket_ADSB_Rx_Thread] Address already in use (Bind failed) 
+2020-03-03 15:29:37,314 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:37,425 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:38,448 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:38,453 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:39,448 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:39,452 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:40,450 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:40,456 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:41,454 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:41,458 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:42,458 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:42,461 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:43,459 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:43,462 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:44,457 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:44,460 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:45,458 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:45,463 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:46,464 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:46,469 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:47,457 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:47,464 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:48,453 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:48,458 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:49,455 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:49,458 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:50,454 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:50,458 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:51,456 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:51,460 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:52,453 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:52,456 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:53,456 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:53,458 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:54,453 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:54,461 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:55,458 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:55,462 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:56,461 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:56,463 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:57,456 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:57,458 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:58,455 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:58,458 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:29:59,456 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:29:59,461 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:00,458 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:00,460 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:01,455 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:01,457 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:02,455 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:02,457 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:03,456 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:03,457 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:33,130 ERROR  [JFrame_Main]  
+2020-03-03 15:30:33,131 ERROR  [JFrame_Main]  
+2020-03-03 15:30:33,132 ERROR  [JFrame_Main]  
+2020-03-03 15:30:33,133 ERROR  [JFrame_Main]  
+2020-03-03 15:30:33,134 ERROR  [JFrame_Main]  
+2020-03-03 15:30:33,134 ERROR  [JFrame_Main]  
+2020-03-03 15:30:33,134 ERROR  [JFrame_Main]  
+2020-03-03 15:30:33,143 ERROR  [JFrame_Main]  
+2020-03-03 15:30:33,489 ERROR  [UdpSocket_ADSB_Rx_Thread] Address already in use (Bind failed) 
+2020-03-03 15:30:33,721 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:33,834 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:34,854 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:34,907 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:35,851 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:35,856 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:36,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:36,853 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:37,845 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:37,851 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:38,845 ERROR  [JFrame_Main] 0 >= 0 
+2020-03-03 15:30:38,847 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:38,854 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:39,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:39,848 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:40,843 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:40,847 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:41,846 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:41,849 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:42,843 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:42,851 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:43,847 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:43,851 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:44,845 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:44,848 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:45,845 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:45,853 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:46,846 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:46,850 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:47,846 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:47,850 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:48,843 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:48,847 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:49,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:49,846 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:50,842 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:50,845 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:51,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:51,847 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:52,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:52,846 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:53,846 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:53,851 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:54,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:54,848 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:55,843 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:55,850 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:56,843 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:56,845 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:57,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:57,846 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:58,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:58,846 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:30:59,843 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:30:59,845 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:31:00,843 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:31:00,845 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:31:01,843 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:31:01,845 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:31:02,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:31:02,848 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:31:03,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:31:03,846 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:31:04,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:31:04,846 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:31:06,014 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:31:06,016 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:31:06,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:31:06,846 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:31:07,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:31:07,846 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:31:08,844 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:31:08,846 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:31:09,845 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:31:09,847 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:31:10,845 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:31:10,847 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 15:31:11,962 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 15:31:11,963 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 17:05:13,993 ERROR  [JFrame_Main]  
+2020-03-03 17:05:13,995 ERROR  [JFrame_Main]  
+2020-03-03 17:05:13,996 ERROR  [JFrame_Main]  
+2020-03-03 17:05:13,996 ERROR  [JFrame_Main]  
+2020-03-03 17:05:14,013 ERROR  [JFrame_Main]  
+2020-03-03 17:05:14,014 ERROR  [JFrame_Main]  
+2020-03-03 17:05:14,016 ERROR  [JFrame_Main]  
+2020-03-03 17:05:14,025 ERROR  [JFrame_Main]  
+2020-03-03 17:05:14,403 ERROR  [UdpSocket_ADSB_Rx_Thread] Address already in use (Bind failed) 
+2020-03-03 17:05:14,718 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 17:05:14,816 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-03-03 17:05:15,996 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-03-03 17:05:16,006 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 

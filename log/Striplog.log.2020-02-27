@@ -1,0 +1,177 @@
+2020-02-27 15:05:29,107 ERROR  [ReceiveX400Mail] x400_ms_msggetstart failed: 119 
+2020-02-27 15:05:29,154 ERROR  [ReceiveX400Mail_Test] x400_ms_waitnew: status = 1 
+2020-02-27 15:15:39,032 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:15:39,092 ERROR  [ReceiveX400Mail] x400_ms_msggetstart failed: 119 
+2020-02-27 15:15:41,009 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:15:41,010 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:17:28,566 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:17:28,566 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:17:31,033 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:17:31,095 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:18:03,959 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:18:03,959 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:18:05,225 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:18:05,226 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:19:43,159 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:19:43,160 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:19:43,249 ERROR  [ReceiveX400Mail] x400_ms_msggetstart failed: 119 
+2020-02-27 15:19:45,056 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:19:45,056 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:19:45,057 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:17,060 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:17,060 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:17,061 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:19,062 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:19,063 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:19,063 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:33,078 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:33,078 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:33,078 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:35,069 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:35,069 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:35,070 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:40,137 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:40,137 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:40,137 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:41,111 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:41,111 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:20:41,111 ERROR  [ReceiveX400Mail_Test] x400_ms_msggetstart failed: 119 
+2020-02-27 15:27:26,419 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-02-27 15:27:26,691 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-02-27 15:31:21,544 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-02-27 15:31:21,803 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-02-27 15:52:59,422 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-02-27 15:52:59,682 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-02-27 16:43:26,698 ERROR  [ReceiveX400Mail] x400_ms_waitnew: status = 1 
+2020-02-27 16:43:29,646 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:43:32,647 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:43:35,648 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:43:38,649 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:43:41,652 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:43:44,653 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:43:47,654 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:43:50,655 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:43:53,656 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:43:56,657 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:43:59,658 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:02,658 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:05,660 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:08,660 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:11,662 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:14,663 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:17,663 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:20,665 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:23,665 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:26,667 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:29,668 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:32,669 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:35,670 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:38,671 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:41,671 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:44,672 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:47,673 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:50,674 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:53,676 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:56,676 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:44:59,678 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:02,679 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:05,680 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:08,681 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:11,682 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:14,683 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:17,684 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:20,685 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:23,685 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:26,687 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:29,688 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:32,688 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:35,690 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:38,690 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:41,692 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:44,693 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:47,694 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:50,694 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:53,696 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:56,698 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:45:59,699 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:02,699 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:05,700 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:08,701 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:11,703 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:14,704 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:17,705 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:20,706 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:23,708 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:26,708 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:29,709 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:32,711 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:35,712 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:38,713 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:41,714 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:44,715 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:47,716 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:50,717 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:53,718 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:56,719 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:46:59,720 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:02,721 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:05,722 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:08,723 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:11,724 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:14,725 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:17,726 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:20,727 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:23,728 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:26,729 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:29,730 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:32,731 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:35,732 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:38,733 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:41,734 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:44,734 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:47,735 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:50,737 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:53,737 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:56,739 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:47:59,740 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:02,741 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:05,742 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:08,743 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:11,744 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:14,745 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:17,746 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:20,746 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:23,747 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:26,749 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:29,749 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:32,751 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:35,752 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:38,753 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:41,754 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:44,755 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:47,756 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:50,757 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:53,758 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:56,758 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:48:59,759 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:02,761 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:05,761 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:08,763 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:11,763 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:14,765 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:17,766 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:20,766 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:23,767 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:26,769 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:29,770 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:32,770 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:35,772 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:38,773 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:41,774 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:44,775 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:47,776 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 16:49:50,776 ERROR  [AmhsStatus_Timer] Cannot connect to server 
+2020-02-27 17:28:16,553 WARN   [DTDEntityResolver] HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide! 
+2020-02-27 17:28:16,826 WARN   [DriverManagerConnectionProviderImpl] HHH000402: Using Hibernate built-in connection pool (not for production use!) 
+2020-02-27 17:28:26,247 WARN   [SqlExceptionHelper] SQL Error: 1146, SQLState: 42S02 
+2020-02-27 17:28:26,247 ERROR  [SqlExceptionHelper] Table 'mysql.Message' doesn't exist 

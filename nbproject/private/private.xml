@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/javaapplication1/SendX400Mail.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>328</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/JavaApplication1/src/DataSet/X400NonReadSender.java</file>
+            <file>file:/C:/JavaApplication1/src/SendIPN/SendIPN.java</file>
+            <file>file:/C:/JavaApplication1/src/DataSet/AmhsDatasetCase004RecipientOPTB.java</file>
+            <file>file:/C:/JavaApplication1/src/DataSet/AmhsDatasetCase007OEITIA5Text.java</file>
+            <file>file:/C:/JavaApplication1/src/DataSet/AmhsDatasetCase006OriginatorVVTSTEST.java</file>
+            <file>file:/C:/JavaApplication1/src/DataSet/SendMsgAIHiLevelDataset.java</file>
+            <file>file:/C:/JavaApplication1/src/DataSet/AmhsDatasetCase003BasicGGOriginatorRef.java</file>
+            <file>file:/C:/JavaApplication1/src/DataSet/X400IpnSender.java</file>
+            <file>file:/C:/JavaApplication1/src/SendIPN/SendUnsupportedContentType35.java</file>
+            <file>file:/C:/JavaApplication1/src/SendIPN/SendMsgAILowLevel.java</file>
+            <file>file:/C:/JavaApplication1/src/SendIPN/SendMsgAIHiLevel.java</file>
+            <file>file:/C:/JavaApplication1/src/DataSet/P7MessageAnalyzer.java</file>
+            <file>file:/C:/JavaApplication1/src/SendIPN/SendUnsupportedContentType.java</file>
+            <file>file:/C:/JavaApplication1/src/DataSet/AmhsDatasetCase005MultipleRecipients.java</file>
+        </group>
+    </open-files>
+</project-private>
