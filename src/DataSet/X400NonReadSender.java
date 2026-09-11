@@ -15,14 +15,14 @@ import com.isode.x400api.X400ms;
 public final class X400NonReadSender implements X400_attConstants {
 
     private static final String ORIGINATOR =
-            "/CN=VVTSMHSA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
-    private static final String RECIPIENT =
             "/CN=VVTSOPTA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
+    private static final String RECIPIENT =
+            "/CN=VVTSAMHS/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
     private static final String SUBJECT_IPM =
-            "11508.0 260906204811Z*/CN=VVTSOPTA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
+            "11508.0 260906204811Z*/CN=VVTSXXXX/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
     private static final String PASSWORD = "amhs";
     private static final String PRESENTATION_ADDRESS =
-            "\"3001\"/Internet=192.168.22.186+3001";
+            "\"3001\"/Internet=192.168.22.199+3001";
     private static final String BIND_DN =
             System.getenv("ISODE_P7_BIND_DN") == null
                     ? "" : System.getenv("ISODE_P7_BIND_DN");

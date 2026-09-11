@@ -10,10 +10,10 @@ import com.isode.x400api.X400ms;
 
 public class sendProbe {
 
-    private static final String P7_MESSAGE_STORE_PRESENTATION_ADDRESS = "\"3001\"/Internet=192.168.22.199+3001";
-    private static final String P7_USER_OR_ADDRESS = "/CN=VVTSOPTA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
+    private static final String P7_MESSAGE_STORE_PRESENTATION_ADDRESS = "\"3001\"/Internet=192.168.22.210+3001";
+    private static final String P7_USER_OR_ADDRESS = "/CN=VVNBOPTA/OU=VVNB/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
     private static final String P7_USER_PASSWORD = "amhs";
-    private static final String ORIGIN_OR_ADDRESS = "/CN=VVTSMHSA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
+    private static final String ORIGIN_OR_ADDRESS = "/CN=VVNBOPTA/OU=VVNB/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
     private static final String RECIPIENT_OR_ADDRESS = "/CN=VVTSSWIM/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
 
     private P7BindSession session;

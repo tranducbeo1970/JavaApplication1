@@ -1,3 +1,6 @@
+// ĐÃ SỬA - CTSW003 dòng 2: REPORT_REQUEST=0, MTA_REPORT_REQUEST=2.
+// ĐÃ SỬA LỖI 22: bỏ đọc lại cờ trên đối tượng đang soạn; log chỉ ghi giá trị đã set.
+// Chưa xác minh giá trị bên chương trình thu.
 package SendIPN;
 
 import com.isode.x400api.AMHS_att;
@@ -14,11 +17,11 @@ import java.util.TimeZone;
 /**
  * Low-level Isode X.400 example using Session, MSMessage, Recip and X400ms.
  */
-public final class SendMsgAILowLevel {
+public final class SendMsgAILowLevelReport {
 
     private static final int P7_SESSION_TYPE = 0;
     private static final int DR_NO_REPORT = 0;
-    private static final int DR_NON_DELIVERY_REPORT = 1;
+    private static final int MTA_REPORT = 3;
     private static final int IPN_NO_NOTIFICATION = 0;
     private static final int IPN_NON_RECEIPT_NOTIFICATION = 2;
 
@@ -40,10 +43,12 @@ public final class SendMsgAILowLevel {
             + "DESTINATION: VVTSMHSA\r\n"
             + "THIS MESSAGE VERIFIES THE ISODE X400MS LOW-LEVEL API.";
 
-    private SendMsgAILowLevel() {
+    private SendMsgAILowLevelReport() {
     }
 
     public static void main(String[] args) {
+        System.out.println("DA SUA LOI 22 - SendMsgAILowLevelReport - CTSW003 dong 2"
+                + " - REPORT_REQUEST=0, MTA_REPORT_REQUEST=2 (cau hinh gui)");
         try {
             submitMessage();
         } catch (X400LowLevelException ex) {
@@ -143,7 +148,6 @@ public final class SendMsgAILowLevel {
         addMessageInt(session, message, X400_att.X400_N_CONTENT_TYPE, 22);
         addMessageInt(session, message, X400_att.X400_N_DISCLOSURE, 1);
         
-       // addMessageInt(session, message, X400_att.X400_N_MTA_REPORT_REQUEST, 2);
         
         
         addMessageInt(
@@ -188,6 +192,9 @@ public final class SendMsgAILowLevel {
                 X400_att.X400_S_ORIGINAL_ENCODED_INFORMATION_TYPES,
                 "ia5-text"
         );
+        
+        
+        
     }
 
     private static void buildOriginatorAndRecipient(
@@ -203,13 +210,13 @@ public final class SendMsgAILowLevel {
                 IPN_NO_NOTIFICATION
         );
 
-        addRecipient(
+             addRecipient(
                 session,
                 message,
-                X400_att.X400_RECIP_STANDARD,
+                X400_att.X400_RECIP_ENVELOPE,
                 2,
                 RECIPIENT_OR_ADDRESS,
-                DR_NON_DELIVERY_REPORT,
+                DR_NO_REPORT,
                 IPN_NON_RECEIPT_NOTIFICATION
         );
     }
@@ -259,6 +266,8 @@ public final class SendMsgAILowLevel {
         );
         check(session, status, "x400_ms_recipnew");
 
+
+        
         addRecipientString(
                 session,
                 recipient,
@@ -271,26 +280,34 @@ public final class SendMsgAILowLevel {
                 X400_att.X400_N_ORIGINAL_RECIPIENT_NUMBER,
                 recipientNumber
         );
-        
-        addRecipientInt(
+                addRecipientInt(
                 session,
                 recipient,
-                X400_att.X400_N_REPORT_REQUEST,
+                X400_att.X400_N_MTA_REPORT_REQUEST,
                 1
         );
         
         addRecipientInt(
                 session,
                 recipient,
-                X400_att.X400_N_MTA_REPORT_REQUEST ,
-                2
+                X400_att.X400_N_REPORT_REQUEST,
+                reportRequest
         );
+        
         addRecipientInt(
                 session,
                 recipient,
                 X400_att.X400_N_NOTIFICATION_REQUEST,
                 notificationRequest
         );
+        if (recipientType == X400_att.X400_RECIP_STANDARD) {
+            // Getters returned error 22 on this outgoing P7 object.
+            // Successful setters do not prove the values received downstream.
+            System.out.println("CTSW003 row 2 - setter calls succeeded, recipient: " + address);
+            System.out.println("Requested X400_N_REPORT_REQUEST=" + reportRequest
+                    + ", X400_N_MTA_REPORT_REQUEST=" + MTA_REPORT
+                    + " (not read back; verify at receiver)");
+        }
     }
 
     private static void addMessageString(

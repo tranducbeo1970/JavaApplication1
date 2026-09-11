@@ -22,7 +22,7 @@ import java.time.format.DateTimeFormatter;
 public final class X400IpnSender implements X400_attConstants {
 
     private static final String ORIGINATOR =
-            "/CN=VVTSMHSA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
+            "/CN=VVTSOPTA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
     private static final String PASSWORD = "amhs";
     // The Java API takes the P7 bind DN separately. The Tcl script did not
     // specify one, so leave it empty unless the installation requires it.
@@ -30,12 +30,12 @@ public final class X400IpnSender implements X400_attConstants {
             System.getenv("ISODE_P7_BIND_DN") == null
                     ? "" : System.getenv("ISODE_P7_BIND_DN");
     private static final String PRESENTATION_ADDRESS =
-            "\"3001\"/Internet=192.168.22.186+3001";
+            "\"3001\"/Internet=192.168.22.199+3001";
 
     // Defaults used when NetBeans runs main() without program arguments.
     private static final Kind DEFAULT_KIND = Kind.READ;
     private static final String DEFAULT_RECIPIENT =
-            "/CN=VVTSOPTA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
+            "/CN=VVTSAMHS/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
     private static final String DEFAULT_SUBJECT_IPM =
             "11508.0 260906204811Z*/CN=VVTSOPTA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
 

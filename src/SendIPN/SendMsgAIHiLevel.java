@@ -97,6 +97,8 @@ public final class SendMsgAIHiLevel {
                 X400Msg.IPN_NON_RECEIPT_NOTIFICATION
         );
 
+        
+        
         message.setPriority(X400Msg.X400_Priority.NORMAL_PRIORITY);
         message.setIntParam(AMHS_att.ATS_N_EXTENDED, 0);
         message.setStringparam(
