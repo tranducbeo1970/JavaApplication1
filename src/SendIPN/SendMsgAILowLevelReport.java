@@ -20,7 +20,7 @@ import java.util.TimeZone;
 public final class SendMsgAILowLevelReport {
 
     private static final int P7_SESSION_TYPE = 0;
-    private static final int DR_NO_REPORT = 0;
+    private static final int DR_NO_REPORT = 1;
     private static final int MTA_REPORT = 3;
     private static final int IPN_NO_NOTIFICATION = 0;
     private static final int IPN_NON_RECEIPT_NOTIFICATION = 2;

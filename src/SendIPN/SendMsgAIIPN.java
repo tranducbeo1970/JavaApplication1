@@ -1,4 +1,7 @@
+//CTSW015 //
+
 package SendIPN;
+
 
 import com.isode.x400.highlevel.P3BindSession;
 import com.isode.x400.highlevel.P7BindSession;
@@ -27,10 +30,10 @@ public final class SendMsgAIIPN {
     private static final String P7_USER_OR_ADDRESS
             = "/CN=VVTSMHSA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
     private static final String P3_USER_OR_ADDRESS
-            = "/CN=VVTSPBAA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
+            = "/CN=VVTSOPTA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
     private static final String PASSWORD = "amhs";
     private static final String RECIPIENT_OR_ADDRESS
-            = "/CN=VVTSMHSA/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
+            = "/CN=VVTSSWIM/OU=VVTS/O=VVTS/PRMD=VIETNAM/ADMD=ICAO/C=XX/";
 
     private static final String SYNTHETIC_USER_RELATIVE_ID = "CTSW015.";
     private static final int IPN_NO_NOTIFICATION = 0;
